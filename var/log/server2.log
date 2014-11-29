@@ -1,0 +1,24 @@
+[3862] 15 Apr 13:45:49.968 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.12 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 5557
+ |    `-._   `._    /     _.-'    |     PID: 3862
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[3862] 15 Apr 13:45:49.983 # Server started, Redis version 2.6.12
+[3862] 15 Apr 13:45:49.983 * The server is now ready to accept connections on port 5557
+[3862 | signal handler] (1397594862) Received SIGTERM, scheduling shutdown...
+[3862] 15 Apr 13:47:42.713 # User requested shutdown...
+[3862] 15 Apr 13:47:42.713 # Redis is now ready to exit, bye bye...

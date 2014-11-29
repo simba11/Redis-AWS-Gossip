@@ -1,0 +1,3 @@
+#!/bin/sh -e
+[ ! -e results ] || rm results
+python test/run.py --results results --key ${NONCE}
